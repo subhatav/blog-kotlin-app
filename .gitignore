@@ -1,0 +1,47 @@
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Compiled Files #
+**/build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Log File #
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.rar
+*.tar.gz
+
+### STS Files ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+**/bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA Files ###
+*.iws
+*.iml
+*.ipr
+.idea/
+**/out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# VS Code Files #
+.vscode/
+*.code-workspace
